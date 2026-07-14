@@ -24,7 +24,7 @@
 
 > **`[02]` 📟 EMBEDDED & EDA TOOLS**
 <br>
-<img src="https://img.shields.io/badge/Altium_Designer-A5C854?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium" /> <img src="https://img.shields.io/badge/KiCad-FFFFFF?style=for-the-badge&logo=kicad&logoColor=black" alt="KiCad" /> <img src="https://img.shields.io/badge/PlatformIO-F56611?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Altium_Designer-A5C854?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium" > <img src="https://img.shields.io/badge/KiCad-FFFFFF?style=for-the-badge&logo=kicad&logoColor=black" alt="KiCad" /> <img src="https://img.shields.io/badge/PlatformIO-F56611?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 
 <br>
 
