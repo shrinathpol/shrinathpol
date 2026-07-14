@@ -14,7 +14,7 @@
 
 <br>
 
-### ⚙️ `<System_Architecture />`
+### ⚙️ `System_Architecture`
 
 **💻 CORE LANGUAGES**
 <br/>
@@ -22,7 +22,7 @@
 
 **📟 EMBEDDED & EDA TOOLS**
 <br/>
-<img src="https://img.shields.io/badge/EDA-Altium_Designer-A5C854?style=plastic&logo=altiumdesigner&logoColor=white" alt="Altium" /> <img src="https://img.shields.io/badge/EDA-KiCad-e4a055?style=plastic&logo=kicad&logoColor=white" alt="KiCad" /> <img src="https://img.shields.io/badge/Platform-PlatformIO-F56611?style=plastic&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/Tool-MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white" alt="MATLAB" />
+/><img src="https://img.shields.io/badge/EDA-Altium_Designer-A5C854?style=plastic&logo=altiumdesigner&logoColor=white" alt="Altium" /> <img src="https://img.shields.io/badge/EDA-KiCad-e4a055?style=plastic&logo=kicad&logoColor=white" alt="KiCad" /> <img src="https://img.shields.io/badge/Platform-PlatformIO-F56611?style=plastic&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/Tool-MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white" alt="MATLAB" />
 
 **🌐 SOFTWARE & DATA INTEGRATION**
 <br/>
