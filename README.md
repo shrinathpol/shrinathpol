@@ -27,7 +27,7 @@
 
 ### 📂 `~/portfolio/deployments`
 
-> **`[01]` ⚡ EV Performance Data Validation @ Bosch India** <br>
+> **`[01]` ⚡ EV Performance Data Validation** <br>
 > Spearheaded the capture and rigorous validation of real-time electric vehicle performance metrics across endurance and temperature cycles. <br>
 > <img src="https://img.shields.io/badge/Tool-MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Tool-ETAS_INCA-23272E?style=plastic&logoColor=white" />
 
