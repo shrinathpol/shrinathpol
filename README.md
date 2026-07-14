@@ -24,3 +24,33 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Data-Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit" /><br>
 **🔌 HARDWARE & PROTOCOLS**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Framework-ESP--IDF-E7352C?style=plastic&logo=espressif&logoColor=white" alt="ESP-IDF" /> <img src="https://img.shields.io/badge/Protocol-I2C-23272E?style=plastic" alt="I2C" /> <img src="https://img.shields.io/badge/Protocol-SPI-23272E?style=plastic" alt="SPI" /> <img src="https://img.shields.io/badge/Protocol-CAN-23272E?style=plastic" alt="CAN" /> <img src="https://img.shields.io/badge/Protocol-Modbus-23272E?style=plastic" alt="Modbus" /> <img src="https://img.shields.io/badge/Protocol-RS485-23272E?style=plastic" alt="RS485" /> <img src="https://img.shields.io/badge/Tool-Oscilloscopes-23272E?style=plastic" alt="Oscilloscopes" />
+
+### 📂 `~/portfolio/deployments`
+
+> **`[01]` ⚡ EV Performance Data Validation @ Bosch India** <br>
+> Spearheaded the capture and rigorous validation of real-time electric vehicle performance metrics across endurance and temperature cycles. <br>
+> <img src="https://img.shields.io/badge/Tool-MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Tool-ETAS_INCA-23272E?style=plastic&logoColor=white" />
+
+<br>
+
+> **`[02]` 🤖 Srishti: AI-Driven CNC Assistant** <br>
+> Architected a real-time, voice-controlled machine-guiding system featuring automated button detection powered by a custom-trained computer vision model. <br>
+> <img src="https://img.shields.io/badge/Model-YOLO_v8-00FFFF?style=plastic&logoColor=black" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=plastic&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Domain-Computer_Vision-8A2BE2?style=plastic&logoColor=white" />
+
+<br>
+
+> **`[03]` ☁️ KiCad Cloud Workspace Architecture** <br>
+> Developed a self-hosted cloud workspace environment enabling real-time Git versioning and seamless file synchronization for local CAD assets. <br>
+> <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Version_Control-Git_Hooks-F05032?style=plastic&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-KiCad-e4a055?style=plastic&logo=kicad&logoColor=white" />
+
+<br>
+
+> **`[04]` 🔌 STM32 Vehicle Indicator & Power Architecture** <br>
+> Engineered a 4-layer STM32-based vehicle side-indicator controller featuring active MOSFET protection, alongside an 8V/2A regulated DC-DC Buck Converter with a C-L-C Pi filter. <br>
+> <img src="https://img.shields.io/badge/MCU-STM32-03234B?style=plastic&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/Domain-Power_Electronics-E7352C?style=plastic&logoColor=white" /> <img src="https://img.shields.io/badge/Design-4--Layer_PCB-A5C854?style=plastic&logo=altiumdesigner&logoColor=white" />
+
+<br>
+
+> **`[05]` 🌍 ESP32 Smart IoT Automation Systems** <br>
+> Designed an ESP32-based smart hygiene monitoring system with IR tracking, and developed a comprehensive automated parking lot management platform featuring real-time QR ticket verification. <br>
+> <img src="https://img.shields.io/badge/Core-ESP32-E7352C?style=plastic&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Sensors-IR_&_Gas-23272E?style=plastic&logoColor=white" /> <img src="https://img.shields.io/badge/Platform-Wokwi_Sim-4B0082?style=plastic&logoColor=white" />
