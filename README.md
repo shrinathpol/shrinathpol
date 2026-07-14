@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shrinath D. Pol</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems & PCB Design Specialist</h3>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems | PCB Design Specialist</h3>
 
 <p align="center">
-  I am passionate about building end-to-end hardware and firmware solutions, from real-time automotive data validation to machine learning-integrated hardware systems.
+  Dedicated to architecting robust, end-to-end hardware and firmware solutions. My expertise bridges the gap between physical electronics and intelligent software, encompassing everything from real-time automotive data validation to advanced, machine-learning-integrated hardware ecosystems.
 </p>
 
 <p align="center">
-  <a href="[LINK_TO_YOUR_LINKEDIN]">
+  <a href="https://www.linkedin.com/in/shrinathpol/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[LINK_TO_YOUR_PORTFOLIO]">
@@ -16,17 +16,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-- 🎓 Studying **Electronics and Communication Engineering** at ATME College of Engineering (VTU)
-- 🏢 Previously worked at **Bosch India** in the EV R&D Division and **Farmercoin Smart Robotic Solutions**
-- 🔭 Currently specializing in **embedded systems development, multi-layer PCB design, and automation**
-- 💬 Ask me about **Embedded C, KiCad, Altium Designer, or hardware communication protocols (I2C, CAN, SPI)**
+- 🎓 Pursuing a B.E. in **Electronics and Communication Engineering** at ATME College of Engineering (VTU)
+- 🏢 Leveraging industry experience from R&D roles at **Bosch India (EV Division)** and **Farmercoin Smart Robotic Solutions**
+- 🔭 Specializing in **embedded architecture, multi-layer PCB design, and robust automation systems**
+- 💬 Let's discuss: **Embedded C, KiCad, high-speed PCB design, or hardware communication protocols (I2C, CAN, SPI)**
 - 📫 How to reach me: **[YOUR_EMAIL@EXAMPLE.COM]**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Competencies & Tech Stack
 
 **Languages:**
 <br/>
@@ -55,17 +55,17 @@
 
 ---
 
-### 🚀 Featured Experience & Projects
+### 🚀 Featured Engineering Projects
 
-* ⚡ **EV Performance Data Validation (Bosch India):** Captured and validated real-time electric vehicle performance data using ETAS INCA and MATLAB.
-* 🤖 **Srishti - Voice-Controlled CNC Assistant:** Engineered a real-time machine-guiding system with automated button detection via a trained YOLO model.
-* ☁️ **KiCad Cloud Workspace Plugin:** Built a self-hosted cloud workspace using a FastAPI backend to handle real-time Git versioning and file synchronization for local CAD files.
-* 🔌 **Hardware Design:** Engineered a 4-layer STM32-based vehicle side-indicator controller with active MOSFET protection and an 8V/2A regulated DC-DC Buck Converter.
-* 🌍 **IoT & Automation:** Developed an ESP32-based smart toilet hygiene monitoring system and an automated parking lot management system featuring QR ticket verification.
+* ⚡ **EV Performance Data Validation (Bosch India):** Spearheaded the capture and rigorous validation of real-time electric vehicle performance metrics utilizing ETAS INCA and MATLAB.
+* 🤖 **Srishti - AI-Driven CNC Assistant:** Architected a real-time, voice-controlled machine-guiding system featuring automated button detection powered by a custom-trained YOLO model.
+* ☁️ **KiCad Cloud Workspace Architecture:** Developed a self-hosted cloud workspace environment with a FastAPI backend, enabling real-time Git versioning and seamless file synchronization for local CAD assets.
+* 🔌 **Advanced Hardware Design:** Engineered a 4-layer STM32-based vehicle side-indicator controller featuring active MOSFET protection, alongside an 8V/2A regulated DC-DC Buck Converter.
+* 🌍 **IoT & Smart Automation Systems:** Designed an ESP32-based smart toilet hygiene monitoring system and a comprehensive automated parking lot management platform with QR-based ticket verification.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Engineering Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
