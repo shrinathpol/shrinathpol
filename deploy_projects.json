@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "EV_Data_Validation",
+    "organization": "Bosch India (EV R&D)",
+    "description": "Captured and validated real-time electric vehicle performance metrics.",
+    "tools_used": ["ETAS INCA", "MATLAB"]
+  },
+  {
+    "id": "Srishti_AI_Assistant",
+    "type": "Hardware + Machine Learning",
+    "description": "Architected a voice-controlled CNC machine-guiding system with automated button detection.",
+    "tools_used": ["YOLO Model", "Computer Vision", "Python"]
+  },
+  {
+    "id": "KiCad_Cloud_Workspace",
+    "type": "Backend + Automation",
+    "description": "Developed a self-hosted cloud workspace for real-time Git versioning of local CAD assets.",
+    "tools_used": ["FastAPI", "Git Hooks", "KiCad"]
+  },
+  {
+    "id": "Custom_PCB_Architecture",
+    "type": "Hardware Design",
+    "description": "Engineered a 4-layer STM32 vehicle side-indicator controller and an 8V/2A DC-DC Buck Converter.",
+    "tools_used": ["STM32", "Active MOSFET Protection", "EDA Tools"]
+  }
+]
