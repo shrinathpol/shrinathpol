@@ -1,61 +1,73 @@
 <div align="center">
-  <h1>Hi 👋, I'm Shrinath Pol</h1>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:312E81&height=250&section=header&text=Shrinath%20D.%20Pol&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Embedded%20%7C%20Hardware%20%7C%20Firmware&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Architect;PCB+Design+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A9ADC1&center=true&vCenter=true&width=600&lines=>+Initializing+system_profile.sh...;>+Bridging+Silicon+and+Software.;>+Status:+Ready+for+deployment." alt="Typing SVG" />
   </a>
 
-  <p>
-    Dedicated to architecting robust, end-to-end hardware and firmware solutions. My expertise bridges the gap between physical electronics and intelligent software, encompassing everything from real-time automotive data validation to advanced, machine-learning-integrated hardware ecosystems.
-  </p>
+  <br>
 
-  <p>
-    <a href="https://www.linkedin.com/in/shrinathpol/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="[LINK_TO_YOUR_PORTFOLIO]">
-      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/shrinathpol/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0D1117&border=38BDF8" alt="LinkedIn"/></a>
+  <a href="mailto:Shri123pol@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0D1117&border=38BDF8" alt="Email"/></a>
+  <a href="[LINK_TO_YOUR_PORTFOLIO]"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0D1117&border=38BDF8" alt="Portfolio"/></a>
 </div>
 
----
+<br>
 
-### 👨‍💻 Professional Summary
+### ⚙️ `<System_Architecture />`
 
-- 🏢 Leveraging industry experience from R&D roles at **Bosch India (EV Division)** and **Farmercoin Smart Robotic Solutions**
-- 🔭 Specializing in **embedded architecture, multi-layer PCB design, and robust automation systems**
-- 💬 Let's discuss: **Embedded C, KiCad, high-speed PCB design, or hardware protocols (I2C, CAN, SPI)**
-- 📫 How to reach me: **Shri123pol@gmail.com**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**`[01]` Core Languages**
+<br>
+<img src="https://img.shields.io/badge/-C-0D1117?style=flat-square&logo=c&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/-C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=38BDF8" />
 
-### 🛠️ Core Competencies & Tech Stack
+**`[02]` Embedded & EDA**
+<br>
+<img src="https://img.shields.io/badge/-Altium-0D1117?style=flat-square&logo=altiumdesigner&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/-KiCad-0D1117?style=flat-square&logo=kicad&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/-PlatformIO-0D1117?style=flat-square&logo=platformio&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/-MATLAB-0D1117?style=flat-square&logo=mathworks&logoColor=38BDF8" />
 
-| 💻 Programming Languages | ⚙️ Embedded & EDA Tools |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> | <img src="https://img.shields.io/badge/Altium_Designer-A5C854?style=flat-square&logo=altiumdesigner&logoColor=white" alt="Altium Designer" /> <img src="https://img.shields.io/badge/KiCad-FFFFFF?style=flat-square&logo=kicad&logoColor=black" alt="KiCad" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" /> <br> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" /> <img src="https://img.shields.io/badge/PlatformIO-F56611?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" /> |
+</td>
+<td width="50%" valign="top">
 
-| 🏗️ Frameworks & Data | 🔌 Hardware & Protocols |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <br> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" /> | `ESP-IDF` `CMSIS` `I2C` `SPI` `UART` `CAN` <br> `Modbus` `RS485` `Oscilloscopes` `Logic Analyzers` |
+**`[03]` Software & Data Integration**
+<br>
+<img src="https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&logo=pandas&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/-Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=38BDF8" />
 
----
+**`[04]` Hardware Protocols**
+<br>
+`ESP-IDF` `I2C` `SPI` `CAN` `Modbus` `RS485` `Oscilloscopes`
+</td>
+</tr>
+</table>
 
-### 🚀 Featured Engineering Projects
+### 🚀 `deploy_projects.json`
 
-* ⚡ **EV Performance Data Validation (Bosch India):** Spearheaded the capture and rigorous validation of real-time electric vehicle performance metrics utilizing ETAS INCA and MATLAB.
-* 🤖 **Srishti - AI-Driven CNC Assistant:** Architected a real-time, voice-controlled machine-guiding system featuring automated button detection powered by a custom-trained YOLO model.
-* ☁️ **KiCad Cloud Workspace Architecture:** Developed a self-hosted cloud workspace environment with a FastAPI backend, enabling real-time Git versioning and seamless file synchronization for local CAD assets.
-* 🔌 **Advanced Hardware Design:** Engineered a 4-layer STM32-based vehicle side-indicator controller featuring active MOSFET protection, alongside an 8V/2A regulated DC-DC Buck Converter.
-* 🌍 **IoT & Smart Automation Systems:** Designed an ESP32-based smart toilet hygiene monitoring system and a comprehensive automated parking lot management platform with QR-based ticket verification.
-
----
-
-### 📊 Engineering Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+```json
+[
+  {
+    "id": "EV_Data_Validation",
+    "organization": "Bosch India (EV R&D)",
+    "description": "Captured and validated real-time electric vehicle performance metrics.",
+    "tools_used": ["ETAS INCA", "MATLAB"]
+  },
+  {
+    "id": "Srishti_AI_Assistant",
+    "type": "Hardware + Machine Learning",
+    "description": "Architected a voice-controlled CNC machine-guiding system with automated button detection.",
+    "tools_used": ["YOLO Model", "Computer Vision", "Python"]
+  },
+  {
+    "id": "KiCad_Cloud_Workspace",
+    "type": "Backend + Automation",
+    "description": "Developed a self-hosted cloud workspace for real-time Git versioning of local CAD assets.",
+    "tools_used": ["FastAPI", "Git Hooks", "KiCad"]
+  },
+  {
+    "id": "Custom_PCB_Architecture",
+    "type": "Hardware Design",
+    "description": "Engineered a 4-layer STM32 vehicle side-indicator controller and an 8V/2A DC-DC Buck Converter.",
+    "tools_used": ["STM32", "Active MOSFET Protection", "EDA Tools"]
+  }
+]
