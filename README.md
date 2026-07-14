@@ -22,7 +22,7 @@
 - 🏢 Leveraging industry experience from R&D roles at **Bosch India (EV Division)** and **Farmercoin Smart Robotic Solutions**
 - 🔭 Specializing in **embedded architecture, multi-layer PCB design, and robust automation systems**
 - 💬 Let's discuss: **Embedded C, KiCad, high-speed PCB design, or hardware communication protocols (I2C, CAN, SPI)**
-- 📫 How to reach me: **[YOUR_EMAIL@EXAMPLE.COM]**
+- 📫 How to reach me: **Shri123pol@gmail.com**
 
 ---
 
