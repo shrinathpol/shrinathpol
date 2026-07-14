@@ -14,20 +14,26 @@
 
 <br>
 
-### ⚙️ <`System_Architecture`/>
+### ⚙️ `<System_Architecture />`
 
 **💻 CORE LANGUAGES**
-<br/>
+
 <img src="https://img.shields.io/badge/Language-C-00599C?style=plastic&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
 
+<br>
+
 **📟 EMBEDDED & EDA TOOLS**
-<br/>
+
 <img src="https://img.shields.io/badge/EDA-Altium_Designer-A5C854?style=plastic&logo=altiumdesigner&logoColor=white" alt="Altium" /> <img src="https://img.shields.io/badge/EDA-KiCad-e4a055?style=plastic&logo=kicad&logoColor=white" alt="KiCad" /> <img src="https://img.shields.io/badge/Platform-PlatformIO-F56611?style=plastic&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/Tool-MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white" alt="MATLAB" />
 
+<br>
+
 **🌐 SOFTWARE & DATA INTEGRATION**
-<br/>
+
 <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Data-Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=plastic&logo=streamlit&logoColor=white" alt="Streamlit" />
 
+<br>
+
 **🔌 HARDWARE & PROTOCOLS**
-<br/>
+
 <img src="https://img.shields.io/badge/Framework-ESP--IDF-E7352C?style=plastic&logo=espressif&logoColor=white" alt="ESP-IDF" /> <img src="https://img.shields.io/badge/Protocol-I2C-23272E?style=plastic" alt="I2C" /> <img src="https://img.shields.io/badge/Protocol-SPI-23272E?style=plastic" alt="SPI" /> <img src="https://img.shields.io/badge/Protocol-CAN-23272E?style=plastic" alt="CAN" /> <img src="https://img.shields.io/badge/Protocol-Modbus-23272E?style=plastic" alt="Modbus" /> <img src="https://img.shields.io/badge/Protocol-RS485-23272E?style=plastic" alt="RS485" /> <img src="https://img.shields.io/badge/Tool-Oscilloscopes-23272E?style=plastic" alt="Oscilloscopes" />
