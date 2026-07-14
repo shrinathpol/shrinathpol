@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Shrinath D. Pol</h1>
+  <h1>Hi 👋, I'm Shrinath Pol</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+Architect;PCB+Design+Specialist" alt="Typing SVG" />
