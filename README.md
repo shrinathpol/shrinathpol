@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:312E81&height=250&section=header&text=Shrinath%20D.%20Pol&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Embedded%20%7C%20Hardware%20%7C%20Firmware&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:312E81&height=250&section=header&text=Shrinath%20Pol&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Embedded%20%7C%20Hardware%20%7C%20Firmware&descAlignY=55&descSize=20&animation=twinkling" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A9ADC1&center=true&vCenter=true&width=600&lines=>+Initializing+system_profile.sh...;>+Bridging+Silicon+and+Software.;>+Status:+Ready+for+deployment." alt="Typing SVG" />
