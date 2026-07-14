@@ -27,25 +27,25 @@
 
 ### 📂 `~/portfolio/deployments`
 
-> **`[01]` ⚡ EV Performance Data Validation** <br>
+**`[01]` ⚡ EV Performance Data Validation** <br>
 > Spearheaded the capture and rigorous validation of real-time electric vehicle performance metrics across endurance and temperature cycles. <br>
 > <img src="https://img.shields.io/badge/Tool-MATLAB-0076A8?style=plastic&logo=mathworks&logoColor=white" /> <img src="https://img.shields.io/badge/Tool-ETAS_INCA-23272E?style=plastic&logoColor=white" />
 
 <br>
 
-> **`[02]` 🤖 Srishti: AI-Driven CNC Assistant** <br>
+**`[02]` 🤖 Srishti: AI-Driven CNC Assistant** <br>
 > Architected a real-time, voice-controlled machine-guiding system featuring automated button detection powered by a custom-trained computer vision model. <br>
 > <img src="https://img.shields.io/badge/Model-YOLO_v8-00FFFF?style=plastic&logoColor=black" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=plastic&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Domain-Computer_Vision-8A2BE2?style=plastic&logoColor=white" />
 
 <br>
 
-> **`[03]` ☁️ KiCad Cloud Workspace Architecture** <br>
+**`[03]` ☁️ KiCad Cloud Workspace Architecture** <br>
 > Developed a self-hosted cloud workspace environment enabling real-time Git versioning and seamless file synchronization for local CAD assets. <br>
 > <img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Version_Control-Git_Hooks-F05032?style=plastic&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/EDA-KiCad-e4a055?style=plastic&logo=kicad&logoColor=white" />
 
 <br>
 
-> **`[04]` 🔌 STM32 Vehicle Indicator & Power Architecture** <br>
+**`[04]` 🔌 STM32 Vehicle Indicator & Power Architecture** <br>
 > Engineered a 4-layer STM32-based vehicle side-indicator controller featuring active MOSFET protection, alongside an 8V/2A regulated DC-DC Buck Converter with a C-L-C Pi filter. <br>
 > <img src="https://img.shields.io/badge/MCU-STM32-03234B?style=plastic&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/Domain-Power_Electronics-E7352C?style=plastic&logoColor=white" /> <img src="https://img.shields.io/badge/Design-4--Layer_PCB-A5C854?style=plastic&logo=altiumdesigner&logoColor=white" />
 
