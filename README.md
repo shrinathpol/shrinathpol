@@ -16,16 +16,24 @@
 
 ### ⚙️ `<System_Architecture />`
 
-**`[01] Core_Languages`** <br>
-<img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=38BDF8&border=0D1117" /> <img src="https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=38BDF8&border=0D1117" /> <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8&border=0D1117" />
-
-**`[02] Embedded_&_EDA`** <br>
-<img src="https://img.shields.io/badge/-Altium-0D1117?style=for-the-badge&logo=altiumdesigner&logoColor=38BDF8&border=0D1117" /> <img src="https://img.shields.io/badge/-KiCad-0D1117?style=for-the-badge&logo=kicad&logoColor=38BDF8&border=0D1117" /> <img src="https://img.shields.io/badge/-PlatformIO-0D1117?style=for-the-badge&logo=platformio&logoColor=38BDF8&border=0D1117" /> <img src="https://img.shields.io/badge/-MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=38BDF8&border=0D1117" />
-
-**`[03] Software_&_Data_Integration`** <br>
-<img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=38BDF8&border=0D1117" /> <img src="https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=38BDF8&border=0D1117" /> <img src="https://img.shields.io/badge/-Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=38BDF8&border=0D1117" />
-
-**`[04] Hardware_Protocols`** <br>
-`ESP-IDF` `I2C` `SPI` `CAN` `Modbus` `RS485` `Oscilloscopes`
+> **`[01]` 💻 CORE LANGUAGES**
+<br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 <br>
+
+> **`[02]` 📟 EMBEDDED & EDA TOOLS**
+<br>
+<img src="https://img.shields.io/badge/Altium_Designer-A5C854?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium" /> <img src="https://img.shields.io/badge/KiCad-FFFFFF?style=for-the-badge&logo=kicad&logoColor=black" alt="KiCad" /> <img src="https://img.shields.io/badge/PlatformIO-F56611?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+
+<br>
+
+> **`[03]` 🌐 SOFTWARE & DATA INTEGRATION**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+<br>
+
+> **`[04]` 🔌 HARDWARE & PROTOCOLS**
+<br>
+<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-IDF" /> <img src="https://img.shields.io/badge/I2C-23272E?style=for-the-badge&logoColor=white" alt="I2C" /> <img src="https://img.shields.io/badge/SPI-23272E?style=for-the-badge&logoColor=white" alt="SPI" /> <img src="https://img.shields.io/badge/CAN-23272E?style=for-the-badge&logoColor=white" alt="CAN" /> <img src="https://img.shields.io/badge/Modbus-23272E?style=for-the-badge&logoColor=white" alt="Modbus" /> <img src="https://img.shields.io/badge/RS485-23272E?style=for-the-badge&logoColor=white" alt="RS485" /> <img src="https://img.shields.io/badge/Oscilloscopes-23272E?style=for-the-badge&logoColor=white" alt="Oscilloscopes" />
