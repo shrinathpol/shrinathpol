@@ -51,6 +51,6 @@
 
 <br>
 
-> **`[05]` 🌍 ESP32 Smart IoT Automation Systems** <br>
+**`[05]` 🌍 ESP32 Smart IoT Automation Systems** <br>
 > Designed an ESP32-based smart hygiene monitoring system with IR tracking, and developed a comprehensive automated parking lot management platform featuring real-time QR ticket verification. <br>
 > <img src="https://img.shields.io/badge/Core-ESP32-E7352C?style=plastic&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Sensors-IR_&_Gas-23272E?style=plastic&logoColor=white" /> <img src="https://img.shields.io/badge/Platform-Wokwi_Sim-4B0082?style=plastic&logoColor=white" />
