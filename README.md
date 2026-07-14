@@ -23,7 +23,6 @@
 
 ### 👨‍💻 Professional Summary
 
-- 🎓 Pursuing a B.E. in **Electronics and Communication Engineering** at ATME College of Engineering (VTU)
 - 🏢 Leveraging industry experience from R&D roles at **Bosch India (EV Division)** and **Farmercoin Smart Robotic Solutions**
 - 🔭 Specializing in **embedded architecture, multi-layer PCB design, and robust automation systems**
 - 💬 Let's discuss: **Embedded C, KiCad, high-speed PCB design, or hardware protocols (I2C, CAN, SPI)**
